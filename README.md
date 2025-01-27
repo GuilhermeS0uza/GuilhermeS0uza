@@ -1,7 +1,7 @@
 ### Hello! I'm Guilherme.
 ##
 - 📍 Currently i'm studying Analysis and Systems Development at UNIP.
-- 🌐 I'm more developed in the Data Science area. 
+- 🌐 I'm more developed in the Back-end area. 
 - 📧 Contact me at: guibsouza04@gmail.com
 ##
 
