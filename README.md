@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://media1.tenor.com/m/O8s7IYl66iUAAAAd/pixel-art.gif"> </p>
 <h1 align="center">Hello, I'm Guilherme!</h1>
 <h3 align="center">📍Currently i'm studying Analysis and Systems Development</h3>
 <h3 align="center">🌐 I'm more developed in the Front-end.</h3>
